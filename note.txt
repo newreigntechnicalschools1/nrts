@@ -1,0 +1,8 @@
+Homepage ( school name, logo ,welcome message ) 
+Announcement $ quick link to key pages 
+- about us 
+- academic information ( like school activities regular and extra , class timetable
+- admissions 
+Student portal ( login access , results and attendance)
+- parents section
+- events  and so on
